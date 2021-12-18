@@ -24,8 +24,12 @@ Click Activate
 
 Use below shortcode to access this plugin feature:
 
+```sh
 [webexcel-media-logos]
 or
 <?php echo do_shortcode('[webexcel-media-logos]'); ?>
+```
+```sh
+
 
 **If any have any query just send me a mail into: devemon11@gmail.com**
